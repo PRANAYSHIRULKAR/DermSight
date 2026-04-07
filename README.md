@@ -1,6 +1,6 @@
-# DermSight
+# DermSightAI
 Nirmaan Project - 1 AI-powered multimodal triage system that analyzes medical images and patient-reported symptoms to generate explainable, risk-based early healthcare insights.
-# DermSight: Pre-Clinical Multimodal Triage System
+# DermSightAI: Pre-Clinical Multimodal Triage System
 
 **Author(s):** Pranay Shirulkar  
 **Affiliation:** St. Vincent Pallotti College Of Engineering & Technology 
