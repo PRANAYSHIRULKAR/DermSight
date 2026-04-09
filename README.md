@@ -62,6 +62,7 @@ DermSight uses a multimodal AI pipeline that processes both image and text input
 
 ## 📊 Results and Discussion
 
+## Live Project Link : https://dermsight.netlify.app/
 The system successfully demonstrates multimodal triage capabilities by analyzing both images and text inputs. Outputs include:
 
 - Risk classification (Low / Moderate / High)
